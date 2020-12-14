@@ -1,8 +1,7 @@
-# print Hello!
-print("Hello!")
+# This is a function to say hello given a name
 
-# this is a change!
-print("Change!")
+say_hello <- function(name="Kelsey"){
 
-# and again!
-print("Another change!")
+  print(paste0("Hello, ", name, "!"))
+
+}
