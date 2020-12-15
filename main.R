@@ -3,5 +3,5 @@
 source("hello.R")
 source("goodbye.R")
 
-say_hello()
+say_hello(language="Japanese")
 say_goodbye()
