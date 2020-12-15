@@ -8,6 +8,9 @@ say_hello <- function(name="Kelsey", language="English"){
     print(paste0("Hola, ", name, "!"))
   }else if(language=="Japanese"){
     print(paste0("Konnichiwa, ", name, "!"))
+  }else if(language=="Korean"){
+    print(paste0("Yoeboseyo, ", name, "!"))
   }
+    
 
 }
