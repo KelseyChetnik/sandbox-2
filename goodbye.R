@@ -1,6 +1,6 @@
 # This is a function to say goodbye given a name
 
-say_goodbye <- function(name="Kelsey", language="English"){
+say_goodbye <- function(name="Jan", language="English"){
 
   if(language=="English"){
     print(paste0("Goodbye, ", name, "!"))

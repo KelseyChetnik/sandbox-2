@@ -5,3 +5,12 @@ get_circle_area <- function(r){
   area
 
 }
+
+
+get_rect_area <- function(l, w){
+
+  area = l*w
+
+  area
+
+}
