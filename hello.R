@@ -1,5 +1,7 @@
 # This is a function to say hello given a name
 
+# more changes!
+
 say_hello <- function(name="Kelsey", language="Japanese"){
 
   if(language=="English"){
