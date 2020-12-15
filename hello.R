@@ -1,6 +1,6 @@
 # This is a function to say hello given a name
 
-say_hello <- function(name="Jan", language="English"){
+say_hello <- function(name="Kelsey", language="English"){
 
   if(language=="English"){
     print(paste0("Hello, ", name, "!"))
